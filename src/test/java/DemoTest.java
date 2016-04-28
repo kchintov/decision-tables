@@ -9,6 +9,7 @@ public class DemoTest {
 
     @Test
     public void canCalculateCorrectDiscount(){
+        //TODO: here you should implement real test 
 
     }
 }
